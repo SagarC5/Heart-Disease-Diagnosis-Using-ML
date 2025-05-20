@@ -1,2 +1,38 @@
-# Heart-Disease-Diagnosis-Using-ML
-Heart disease diagnosis using machine learning (ML) involves applying algorithms to medical data to help detect, predict, and classify cardiovascular diseases. ML techniques are used to analyze various health parameters and patient data, helping healthcare providers make more accurate and timely diagnoses.
+# ❤️ Heart Disease Diagnosis System
+
+A machine learning system to predict the risk of heart disease using clinical data and classification algorithms. This project leverages data preprocessing, exploratory data analysis (EDA), and model evaluation techniques to build an accurate and interpretable prediction model.
+
+---
+
+## 📌 Features
+
+- Predicts heart disease risk based on patient health indicators
+- Supports classification models using Scikit-learn
+- Visualizes health indicators and correlations
+- Evaluates models using metrics like Accuracy, Confusion Matrix, and ROC-AUC
+
+---
+
+## 🔧 Tech Stack
+
+- **Language:** Python  
+- **Libraries:** Scikit-learn, Pandas, Matplotlib, Seaborn  
+- **ML Techniques:** Logistic Regression, Decision Tree
+
+---
+
+## 📊 Dataset
+
+- Publicly available dataset (e.g., UCI Heart Disease Dataset)
+- Contains attributes like age, cholesterol, blood pressure, chest pain, etc.
+
+## 📸 Snapshots of Project
+
+### ✅ Website UI
+![Website UI](s1.jpg)
+
+### ✅ Website UI
+![Website UI](s5.jpg)
+
+### ✅ Sample Output
+![Sample Output](s6.jpg)
